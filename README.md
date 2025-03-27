@@ -44,9 +44,4 @@ Below is an overview of the main functions and their roles in the code.
 
 ---
 
-## How to Use This Project
 
-1. **Install Dependencies:**  
-   Ensure you have Python 3.7+ installed. Then, install the necessary libraries:
-   ```bash
-   pip install selenium pandas beautifulsoup4 aiohttp
